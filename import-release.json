@@ -1,0 +1,25 @@
+{
+  "groups": {
+    "Basic 3": "symbols"
+  },
+  "counts": {
+    "Basic 3": 51229
+  },
+  "assets": [
+    {
+      "name": "basic-3-01.zip",
+      "sha256": "a9cb5289c1f486e8a68528d70874f4634905e5be2ed66f3d1071826625feace1",
+      "files": 16184
+    },
+    {
+      "name": "basic-3-02.zip",
+      "sha256": "6055e051ff5d82ecc1c900b62b929b162bcfb6a9c2fc7a0aad6b6f34b5144b33",
+      "files": 18695
+    },
+    {
+      "name": "basic-3-03.zip",
+      "sha256": "793b31cf82e9af528412ffb95307d6c3a7dcfaa64711e6611b0d8fafbca40778",
+      "files": 16350
+    }
+  ]
+}
